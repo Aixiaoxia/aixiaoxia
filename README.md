@@ -1,14 +1,11 @@
-<h1 align="center">
-  <a href="https://github.com/Aixiaoxia">
-    ✨ 艾小小 GitHub 首页
-  </a>
-</h1>
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?lines=你好，我是艾小小;机器人学习研究者;LeRobot%20%7C%20Diffusion%20Policy%20%7C%20ACT&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6295F7&background=FFFFFF00&center=true&vCenter=true&width=900&lines=Hi+there!+Welcome+to+my+Homepage+%F0%9F%91%8B;Embodied+AI+%7C+Robot+Learning+Researcher;ACT+%7C+Diffusion+Policy+%7C+LeRobot"
+    alt="Typing SVG"
   />
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -19,28 +16,38 @@
 
 ## 🧑‍💻 关于我
 
-热爱机器人学习，专注于模仿学习与真实机器人部署。
+嗨，这里是艾小小 ✨
+一名沉迷于具身智能（Embodied AI）与机器人学习的开发者。
 
----
+白天在实验室调 ACT / Diffusion Policy，
+晚上在 ROS 和 Gazebo 里和机器人斗智斗勇。
 
-### 📊 社交统计
+目前主要折腾：
 
-![GitHub统计](https://stats.justsong.cn/api/github?username=Aixiaoxia&theme=dark&lang=zh-CN)
+* 🤖 模仿学习（ACT / Diffusion Policy）
+* 🦾 机械臂自主抓取与手眼标定
+* 🧠 Vision-Language-Action System
+* 🚁 多无人机协同与任务规划
+* 🔥 AI Agent / MCP / Function Calling
+* 🐧 Linux / Docker / ROS2 / PyTorch
+
+获得过：
+
+* 华为 ICT 中国赛一等奖、全球赛二等奖
+* 中美创客大赛上海赛区特等奖
+* 腾讯云 AI Agent 黑客松二等奖
+
+
+希望有一天，
+能让机器人真正理解世界，而不只是执行代码。
 
 ---
 
 ### 🔥 GitHub 活跃度
 
-&lt;div align="center"&gt;
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aixiaoxia&theme=react-dark&radius=12&hide_border=true"
+  />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Aixiaoxia&custom_title=艾小小的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aixiaoxia&layout=compact&langs_count=6&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-&lt;/div&gt;
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aixiaoxia&theme=dracula&custom_title=心电图&radius=10)
-
-![Streak](https://streak-stats.demolab.com/?user=Aixiaoxia&theme=radical)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Aixiaoxia&theme=onedark&row=2&column=4)
