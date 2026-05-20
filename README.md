@@ -44,7 +44,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aixiaoxia&theme=react-dark&radius=12&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aixiaoxia&bg_color=0d1117&color=6295F7&line=6295F7&point=FFFFFF&area=true&hide_border=true&radius=12"
   />
 </p>
+
+
 
