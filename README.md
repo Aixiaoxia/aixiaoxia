@@ -19,9 +19,6 @@
 嗨，这里是艾小小 ✨
 一名沉迷于具身智能（Embodied AI）与机器人学习的开发者。
 
-白天在实验室调 ACT / Diffusion Policy，
-晚上在 ROS 和 Gazebo 里和机器人斗智斗勇。
-
 目前主要折腾：
 
 * 🤖 模仿学习（ACT / Diffusion Policy）
