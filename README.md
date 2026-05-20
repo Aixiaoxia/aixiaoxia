@@ -1,21 +1,21 @@
-&lt;h1 align="center"&gt;
-  &lt;a href="https://github.com/Aixiaoxia"&gt;✨ 艾小小 GitHub 首页&lt;/a&gt;
-&lt;/h1&gt;
+<h1 align="center">
+  <a href="https://github.com/Aixiaoxia">
+    ✨ 艾小小 GitHub 首页
+  </a>
+</h1>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com/?lines=你好，我是艾小小;机器人学习研究者;LeRobot%20%7C%20Diffusion%20Policy%20%7C%20ACT&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000"&gt;
-&lt;/p&gt;
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=你好，我是艾小小;机器人学习研究者;LeRobot%20%7C%20Diffusion%20Policy%20%7C%20ACT&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000"
+  />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/&gt;
-&lt;/p&gt;
-
-&lt;div align="right"&gt;
-  &lt;img src="https://moe-counter.glitch.me/get/@:Aixiaoxia?theme=rule34"&gt;
-&lt;/div&gt;
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+</p>
 
 ## 🧑‍💻 关于我
 
