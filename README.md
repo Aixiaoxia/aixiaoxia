@@ -44,13 +44,3 @@
 ![Streak](https://streak-stats.demolab.com/?user=Aixiaoxia&theme=radical)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Aixiaoxia&theme=onedark&row=2&column=4)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;&lt;strong style="color:#e96443;"&gt;[点击展开] 赞赏支持 &lt;/strong&gt;&lt;/summary&gt;
-
-&lt;img align="center" src="img/微信.jpg" alt="微信赞赏" width="30%"&gt;
-&lt;img align="center" src="img/支付宝.jpg" alt="支付宝赞赏" width="30%"&gt;
-
-&lt;/details&gt;
