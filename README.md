@@ -49,6 +49,12 @@
 </p>
 
 ## 📈 3D Contributions 
-<p align="center"> <img src="./profile-3d-contrib/profile-night-rainbow.svg" /> </p>
+<p align="center"> 
+<img
+  height="180"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Aixiaoxia&layout=compact&langs_count=10&theme=radical&hide_border=true&exclude_repo=github-readme-stats&hide=html,css"
+/>
+
+ </p>
 
 
