@@ -5,6 +5,11 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,ros,docker,linux,git" />
+</p>
+
+
 
 
 <p align="center">
