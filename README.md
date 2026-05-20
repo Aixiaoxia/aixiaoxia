@@ -1,6 +1,6 @@
-&lt;p align="center"&gt;
-  &lt;h1 align="center"&gt;&lt;a href="https://github.com/Aixiaoxia"&gt;✨ 艾小小 GitHub 首页&lt;/a&gt;&lt;/h1&gt;
-&lt;/p&gt;
+&lt;h1 align="center"&gt;
+  &lt;a href="https://github.com/Aixiaoxia"&gt;✨ 艾小小 GitHub 首页&lt;/a&gt;
+&lt;/h1&gt;
 
 &lt;p align="center"&gt;
   &lt;img src="https://readme-typing-svg.demolab.com/?lines=你好，我是艾小小;机器人学习研究者;LeRobot%20%7C%20Diffusion%20Policy%20%7C%20ACT&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000"&gt;
@@ -13,30 +13,31 @@
   &lt;img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/&gt;
 &lt;/p&gt;
 
-&lt;br&gt;
-
-&lt;img align="right" src="https://moe-counter.glitch.me/get/@:Aixiaoxia?theme=rule34"&gt;
+&lt;div align="right"&gt;
+  &lt;img src="https://moe-counter.glitch.me/get/@:Aixiaoxia?theme=rule34"&gt;
+&lt;/div&gt;
 
 ## 🧑‍💻 关于我
 
 热爱机器人学习，专注于模仿学习与真实机器人部署。
 
-&lt;br&gt;
+---
 
 ### 📊 社交统计
 
 ![GitHub统计](https://stats.justsong.cn/api/github?username=Aixiaoxia&theme=dark&lang=zh-CN)
 
-&lt;!-- 如果你有B站账号，取消下面注释并替换ID --&gt;
-&lt;!-- [![B站统计](https://stats.justsong.cn/api/bilibili/?id=你的B站ID&theme=dark&lang=zh-CN)](https://space.bilibili.com/你的B站ID) --&gt;
-
-&lt;br&gt;
+---
 
 ### 🔥 GitHub 活跃度
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aixiaoxia&custom_title=艾小小的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+&lt;div align="center"&gt;
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aixiaoxia&layout=compact&langs_count=6&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Stats](https://github-readme-stats.vercel.app/api?username=Aixiaoxia&custom_title=艾小小的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aixiaoxia&layout=compact&langs_count=6&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+&lt;/div&gt;
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aixiaoxia&theme=dracula&custom_title=心电图&radius=10)
 
@@ -44,8 +45,12 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Aixiaoxia&theme=onedark&row=2&column=4)
 
-&lt;br&gt;
+---
 
 &lt;details&gt;
+&lt;summary&gt;&lt;strong style="color:#e96443;"&gt;[点击展开] 赞赏支持 &lt;/strong&gt;&lt;/summary&gt;
+
+&lt;img align="center" src="img/微信.jpg" alt="微信赞赏" width="30%"&gt;
+&lt;img align="center" src="img/支付宝.jpg" alt="支付宝赞赏" width="30%"&gt;
 
 &lt;/details&gt;
